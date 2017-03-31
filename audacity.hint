@@ -1,0 +1,1 @@
+ADDREQUIRES="ffmpeg ladspa_sdk lame soundtouch twolame vamp-plugin-sdk lilv suil"

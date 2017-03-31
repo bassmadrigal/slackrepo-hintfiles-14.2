@@ -1,0 +1,1 @@
+ADDREQUIRES="libdc1394 qt5-repack numpy ffmpeg jdk python3 numpy3 apache-ant"

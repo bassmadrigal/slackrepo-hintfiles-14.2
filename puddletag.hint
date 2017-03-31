@@ -1,0 +1,1 @@
+ADDREQUIRES="gst0-ffmpeg gst0-plugins-bad gst0-plugins-ugly gst0-python quodlibet chromaprint"

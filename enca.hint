@@ -1,0 +1,1 @@
+ADDREQUIRES="recode perl-Unicode-Map perl-Unicode-Map8"

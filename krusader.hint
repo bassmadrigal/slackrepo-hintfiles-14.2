@@ -1,0 +1,2 @@
+ADDREQUIRES="krename p7zip dpkg rar unace arj unrar md5deep"
+DOWNLOAD="10.0.0.152/uploads/krusader-git_20150309_13fa966.tar.xz"

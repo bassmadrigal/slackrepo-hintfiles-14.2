@@ -1,0 +1,1 @@
+ADDREQUIRES="libass libcdaudio celt dirac libdca faac faad2 libkate liblrdf slv2 libmms libmimic libmusicbrainz libofa OpenAL opencv soundtouch swfdec xvidcore rtmpdump TiMidity++ xvidcore libdc1394"

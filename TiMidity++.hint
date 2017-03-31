@@ -1,0 +1,2 @@
+ADDREQUIRES="speex xawplus freepats eawpats fluid-soundfont"
+OPTIONS="SPEEX=yes XAW3D=yes"

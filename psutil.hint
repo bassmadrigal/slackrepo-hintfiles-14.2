@@ -1,0 +1,2 @@
+ADDREQUIRES="python3 mock ipaddress"
+OPTIONS="PYTHON3=yes"

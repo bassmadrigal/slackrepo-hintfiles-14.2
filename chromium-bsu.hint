@@ -1,0 +1,1 @@
+ADDREQUIRES="ftgl SDL2_mixer SDL2_image"

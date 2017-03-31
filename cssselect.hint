@@ -1,0 +1,2 @@
+ADDREQUIRES="python3 Sphinx"
+OPTIONS="PYTHON3=yes"

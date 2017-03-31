@@ -1,0 +1,1 @@
+ADDREQUIRES="freexl hdf libwebp postgresql xerces-c"

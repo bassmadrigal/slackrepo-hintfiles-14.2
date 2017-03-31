@@ -1,0 +1,2 @@
+OPTIONS="ASS=yes FAAC=yes FDK_AAC=yes FREI0R=yes GME=yes IEC61883=yes ILBC=yes LAME=yes OPENAL=yes OPENCORE=yes OPENSSL=yes OPUS=yes QUVI=yes RTMP=yes SCHROEDINGER=yes SNAPPY=yes SPEEX=yes TWOLAME=yes VIDSTAB=yes WEBP=yes X264=yes X265=yes XVID=yes DC1394=yes"
+ADDREQUIRES="libass faac libfdk-aac frei0r libgme libiec61883 libavc1394 libilbc lame OpenAL opencore-amr opus libquvi rtmpdump schroedinger snappy speex twolame vid.stab libwebp x264 x265 xvidcore libdc1394 SDL2"

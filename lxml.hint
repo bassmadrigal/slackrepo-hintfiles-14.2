@@ -1,0 +1,2 @@
+ADDREQUIRES="python3 cssselect"
+OPTIONS="PYTHON3=yes"

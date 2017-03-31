@@ -1,0 +1,4 @@
+#ADDREQUIRES="freetds OpenAL libwebp opus snappy postgresql"
+#OPTIONS="PROPRIETARY_CODECS=yes"
+PRAGMA="abstar"
+NUMJOBS="-j1"

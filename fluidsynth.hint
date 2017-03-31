@@ -1,0 +1,2 @@
+ADDREQUIRES="ladspa_sdk portaudio"
+OPTIONS="LADSPA=yes"

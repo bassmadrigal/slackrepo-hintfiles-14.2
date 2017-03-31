@@ -1,0 +1,2 @@
+ADDREQUIRES="qt5-repack"
+DELREQUIRES="qt5"

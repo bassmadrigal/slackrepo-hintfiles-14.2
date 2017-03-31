@@ -1,0 +1,2 @@
+OPTIONS="FAAC=yes LAME=yes LIBMPEG2=yes MJPEGTOOLS=yes QUICKTIME=yes X264=yes XVID=yes"
+ADDREQUIRES="faac lame libmpeg2 mjpegtools libquicktime x264 xvidcore"
